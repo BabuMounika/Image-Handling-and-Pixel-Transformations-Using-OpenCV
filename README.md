@@ -273,35 +273,56 @@ plt.show()
 ```
 
 ## Output:
-- **i)** Read and Display an Image.
-- 1.Read 'DIPT image-1.jpg' as grayscale and display:
--   <img width="325" height="517" alt="Screenshot 2025-08-20 012619" src="https://github.com/user-attachments/assets/14d29856-415a-446a-b35f-0fe9a76047c6" />
+ **i)** Read and Display an Image.
+
+ *1.Read 'DIPT image-1.jpg' as grayscale and display:
+  
+   <img width="325" height="517" alt="Screenshot 2025-08-20 012619" src="https://github.com/user-attachments/assets/14d29856-415a-446a-b35f-0fe9a76047c6" />
+
 2.Save image as PNG and display:
+
 <img width="340" height="507" alt="Screenshot 2025-08-20 012625" src="https://github.com/user-attachments/assets/c8bd4660-7bec-411b-bac2-1a6fd3cb93a8" />
+
 3.Cropped image:
+
 <img width="415" height="507" alt="Screenshot 2025-08-20 012634" src="https://github.com/user-attachments/assets/df014fa9-cadb-4166-b565-78f74f7d5a58" />
-(450, 350, 3)
+
 4.Resize and flip Horizontally:
+
 <img width="507" height="509" alt="Screenshot 2025-08-20 012641" src="https://github.com/user-attachments/assets/0c71bf6e-9aab-4e83-9c92-f843334e3f93" />
+
 5.Read 'DIPT image-2.jpg' and Display the final annotated image:
+
 <img width="678" height="540" alt="Screenshot 2025-08-20 012705" src="https://github.com/user-attachments/assets/bb452d38-cb9a-4375-9da1-399da15f019a" />
 
-- **ii)** Adjust Image Brightness.
-- 1.Create brighter and darker images and display:
-- <img width="1038" height="434" alt="Screenshot 2025-08-20 012715" src="https://github.com/user-attachments/assets/9c773b4b-b6cc-4ace-a085-3761fc19bd76" />
+ **ii)** Adjust Image Brightness.
+ 
+ 1.Create brighter and darker images and display:
+ 
+ <img width="1038" height="434" alt="Screenshot 2025-08-20 012715" src="https://github.com/user-attachments/assets/9c773b4b-b6cc-4ace-a085-3761fc19bd76" />
   
-- **iii)** Modify Image Contrast.
-- 1.Modify contrast using scaling factors 1.1 and 1.2
-- <img width="1024" height="423" alt="Screenshot 2025-08-20 012724" src="https://github.com/user-attachments/assets/76f727b3-1a8f-45d5-8556-9d9d8ff65bf7" />
+ **iii)** Modify Image Contrast.
+  
+  1.Modify contrast using scaling factors 1.1 and 1.2
 
-- **iv)** Generate Third Image Using Bitwise Operations.
+ <img width="1024" height="423" alt="Screenshot 2025-08-20 012724" src="https://github.com/user-attachments/assets/76f727b3-1a8f-45d5-8556-9d9d8ff65bf7" />
+
+ **iv)** Generate Third Image Using Bitwise Operations.
+  
 1.Split 'Boy.jpg' into B, G, R components and display:
+  
   <img width="1127" height="431" alt="Screenshot 2025-08-20 012753" src="https://github.com/user-attachments/assets/fc3a2f9d-df28-4805-ba73-9423ff647a96" />
+  
 2.Merge the R, G, B channels and display:
+
   <img width="492" height="537" alt="Screenshot 2025-08-20 012801" src="https://github.com/user-attachments/assets/a91019bc-8792-42d7-9e2a-c4eace975e97" />
+  
 3.Split the image into H, S, V components and display:
+
   <img width="1181" height="430" alt="Screenshot 2025-08-20 012809" src="https://github.com/user-attachments/assets/fe155998-611e-4bf0-8a15-b7ef6a8f08fc" />
+  
 4.Merge the H, S, V channels and display:
+
   <img width="827" height="532" alt="Screenshot 2025-08-20 012818" src="https://github.com/user-attachments/assets/52f5c724-54b4-4600-8557-9aa8ebe93a3a" />
 
 ## Result:
